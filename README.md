@@ -17,6 +17,7 @@ Simplify analysis of heritage datasets
 Enable comparative insights
 Provide educational analytics
 Demonstrate real-world data visualization skills
+
 🧠 Problem Statement
 Heritage datasets are often difficult to interpret because they are presented as raw tables or scattered sources. Users need an interactive platform that presents heritage information visually and clearly.
 
@@ -59,6 +60,7 @@ Predictive analytics
 Additional datasets
 Mobile optimization
 Downloadable reports
+
 👨‍💻 Author
 Harini
 
